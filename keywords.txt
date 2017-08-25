@@ -1,0 +1,10 @@
+compass_read_XYZdata       KEYWORD2
+compass_offset_calibration KEYWORD2
+compass_init               KEYWORD2
+compass_scalled_reading    KEYWORD2
+compass_heading            KEYWORD2
+
+compass_address       LITERAL1
+compass_XY_excitation LITERAL1
+compass_Z_excitation  LITERAL1
+compass_rad2degree    LITERAL1
